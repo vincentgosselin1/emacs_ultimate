@@ -1,0 +1,26 @@
+#this is a top .txt file
+#can i append to it another file and modify the content at same time???
+ALL ALL ./test1/test1.tcl
+ALL ALL ./test1/test2/test2.tcl
+ALL ALL ./test1/test2.tcl
+ALL ALL ./test1/test3.tcl
+ALL ALL ./test1/test4.tcl
+ALL ALL ./test1/test5.tcl
+ALL ALL ./test1.tcl
+ALL ALL ./test2.tcl
+ALL ALL ./test3.tcl
+ALL ALL ./test4.tcl
+ALL ALL ./test5.tcl
+ALL ALL ./file_append.tcl
+ALL ALL ./test1/f1.vhd
+ALL ALL ./test1/test1.tcl
+ALL ALL ./test1/test2/test2.tcl
+ALL ALL ./test1/test2.tcl
+ALL ALL ./test1/test3.tcl
+ALL ALL ./test1/test4.tcl
+ALL ALL ./test1/test5.tcl
+ALL ALL ./test1.tcl
+ALL ALL ./test2.tcl
+ALL ALL ./test3.tcl
+ALL ALL ./test4.tcl
+ALL ALL ./test5.tcl
